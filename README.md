@@ -1,5 +1,5 @@
 ConcurrentHashMap: cost of querying the size
-===============================
+---
 
 Measures cost of time when querying the size of a `HashMap` and `ConcurrentHashMap` in Java. Is answer to:
 
